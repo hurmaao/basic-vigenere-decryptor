@@ -17,8 +17,6 @@ This project implements cryptoanalysis system for breaking the Vigenere cipher u
      python main.py
 -  Paste your encrypted text and press Ctrl+D (Linux/Mac) or Ctrl+Z then Enter (Windows) to finish
 -  The program will:
-     Display probable key length
-     Suggest decryption key
-     Allow manual key verification
+     Display probable key length, Suggest decryption key, Allow manual key verification
 > The program may have errors depending on the length of the key and text
      Output decrypted text
