@@ -12,11 +12,11 @@ This project implements cryptoanalysis system for breaking the Vigenere cipher u
 
 ## Usage
 
-- 1. Run the program:
+-  Run the program:
     ```bash
      python main.py
-- 2. Paste your encrypted text and press Ctrl+D (Linux/Mac) or Ctrl+Z then Enter (Windows) to finish
-- 3. The program will:
+-  Paste your encrypted text and press Ctrl+D (Linux/Mac) or Ctrl+Z then Enter (Windows) to finish
+-  The program will:
      Display probable key length
      Suggest decryption key
      Allow manual key verification
